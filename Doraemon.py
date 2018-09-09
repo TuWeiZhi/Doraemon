@@ -8,6 +8,7 @@ t.showturtle()
 t.speed(10)
 t.setup(width=0.6, height=0.85)
 t.title('哆啦A梦')
+
 #--------------------------------------------
 '''
 
